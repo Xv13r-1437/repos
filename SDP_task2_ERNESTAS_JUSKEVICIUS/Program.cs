@@ -12,9 +12,7 @@ namespace SDP_task2_ERNESTAS_JUSKEVICIUS
         {
             Console.WriteLine("HELLO, THIS IS TASK2");
             Console.WriteLine("This is step5. changes");
-            Console.WriteLine("This is the NewBranch");
-            Console.WriteLine("This is a new FEATURE for the new branch");
+  
         }
-        
     }
 }
